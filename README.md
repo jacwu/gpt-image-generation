@@ -12,6 +12,18 @@ This application is built with a modern web architecture:
 - **Backend**: Flask API with Python
 - **Image Generation**: Azure OpenAI API
 
+### Application Screenshot
+
+Below is a screenshot of the application in action:
+
+![Application Screenshot](sample.png)
+
+The screenshot shows the main interface of the application with:
+- Image upload area with 3 uploaded images
+- Text prompt input field
+- Image size and quality options
+- Generated image based on the prompt and uploaded reference images
+
 ### Directory Structure
 
 ```

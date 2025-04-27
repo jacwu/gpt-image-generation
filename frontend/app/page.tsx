@@ -289,7 +289,7 @@ export default function Home() {
                       htmlFor={`quality-${quality}`}
                       className="ml-2 block text-sm text-gray-700 dark:text-gray-300"
                     >
-                      {quality.charAt(0).toUpperCase() + quality.slice(1)}
+                      {quality}
                     </label>
                   </div>
                 ))}
